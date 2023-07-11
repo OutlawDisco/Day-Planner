@@ -16,6 +16,7 @@ none
 Track and update tasks by the hour with this workday planner.
 
 Link to deployed app
+https://outlawdisco.github.io/Day-Planner/
 
 Link To github repo
 https://github.com/OutlawDisco/Day-Planner
